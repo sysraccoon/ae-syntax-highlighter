@@ -1,0 +1,1 @@
+pyinstaller --onefile --paths .\venv\Lib\site-packages\ .\code_tokenizer.py
